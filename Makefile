@@ -2,7 +2,7 @@
 build: agent
 
 # Clean all
-clean: agent
+clean: clean-agent
 
 # Build agent
 agent:
